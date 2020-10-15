@@ -1,0 +1,19 @@
+.DataFetching{
+    height: 180;
+    width: 300px;
+    display: inline-flex;    
+}
+.Main{
+    flex-direction: column;
+}
+
+.Main>h2{
+    margin: 50px;
+    color: white;
+}
+.CardConteiner{ 
+    display: flex;  
+    flex-wrap:wrap;
+    justify-content: center;
+    margin: 50px;
+}
